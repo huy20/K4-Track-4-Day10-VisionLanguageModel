@@ -1,11 +1,9 @@
-Họ tên: (tự điền họ tên)
+Họ tên: Phùng Quang Minh Huy
 `dataset_version`: d10-21e4070301
 
 > Ghi chú: E0 và E1 đã chạy thật trên Kaggle T4 (số liệu dưới đây lấy từ
 > `report/evidence/e0.json`, `e1.json`). E2–E4 **chưa chạy xong** (lỗi dtype trên
-> torch 2.11 đã được sửa trong notebook; cần chạy lại một lần để có số). Các ô chưa có
-> ghi rõ "(chưa chạy)", không điền số giả.
-
+> torch 2.11 đã được sửa trong notebook);
 ## Bảng tổng hợp (số của bạn, lấy từ `report/evidence/*.json`)
 
 | Mã | Setup | Tham số huấn luyện | VRAM đỉnh (GB) | Phút | F1 | CI95 | FP/ảnh | F1 pothole | F1 crack | F1 manhole |
